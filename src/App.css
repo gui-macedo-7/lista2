@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.ola-mundo {
+    font-size: 25px;
+    font-family: Poppins;
+    color: blue;
+    font-weight: bold;
+}
+
+.frase {
+    font-size: 25px;
+    font-family: Poppins;
+    color: red;
+    font-weight: bold;
+}
+
+.lista {
+    color: brown;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.imagem {
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin-top: -20px;
+}
+
+.text-image {
+    font-size: 25px;
+    font-family: Poppins;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.button {
+    background-color: black;
+    color: aliceblue;
+    font-family: Poppins;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.link-react {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.title {
+    font-size: 15px;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+.bom-dia {
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+
+.estilo {
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Poppins;
+}
+
+.estilos-2 {
+    font-family: Poppins;
+    font-size: 25px;
+    color: cornflowerblue;
+}
